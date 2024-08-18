@@ -1,4 +1,4 @@
-## Individal Themes
+## Individal VSCode Themes
 
 For those who like bright colors.
 
