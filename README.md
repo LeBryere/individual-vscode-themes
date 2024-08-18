@@ -8,7 +8,8 @@ First, save the  `themes` directory, as well as the `package.json` and `package.
 
 #### HTML JS
 
-[![Resume Preview](theme-individual.png)](https://lebryere.github.io/individual-vscode-themes/assets/theme-individual.png)
+[![Resume Preview](theme-individual.png)](https://lebryere.github.io/individual-vscode-themes/)
+
 
 ## Preview
 
