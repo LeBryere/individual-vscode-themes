@@ -8,7 +8,7 @@ First, save the  `themes` directory, as well as the `package.json` and `package.
 ## Preview
 #### HTML JS CSS
 
-(theme-individual.png)](https://lebryere.github.io/individual-vscode-themes/)
+![Resume Preview](assets/theme-individual.png)
 
 ## Copyright and License
 
