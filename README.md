@@ -6,7 +6,7 @@ First, save the  `themes` directory, as well as the `package.json` and `package.
 
 ---
 ## Preview
-#### HTML JS
+#### HTML JS CSS
 
 [![Resume Preview](theme-individual.png)](https://lebryere.github.io/individual-vscode-themes/)
 
