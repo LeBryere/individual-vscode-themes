@@ -8,7 +8,7 @@ First, save the  `themes` directory, as well as the `package.json` and `package.
 
 #### HTML JS
 
-[![Resume Preview](theme-individual.png)](https://lebryere.github.io/individual-vscode-themes/master/assets/)
+[![Resume Preview](theme-individual.png)](https://lebryere.github.io/individual-vscode-themes/assets/)
 
 [![GitHub license](https://img.shields.io/badge/licence-MIT-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/Hello-balcsi/master/LICENCE)
 
