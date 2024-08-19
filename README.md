@@ -7,6 +7,7 @@ For those who like bright colors.
 1. **Backup Original Files**
 
       First, save the `themes` directory, as well as the `package.json` and `package.nls.json` files from the following location:
+
       <span style="color:blue;">c:/Users/your/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/theme-defaults</span>
 
       Save these files to a secure location. This will allow you to restore the original state if needed.
@@ -16,6 +17,7 @@ For those who like bright colors.
       Once you have backed up the original files, delete them from the specified location and replace them with the new files you want to use.
 
       Ensure that the new files are placed in the same directory:
+      
       <span style="color:blue;">c:/Users/your/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/theme-defaults</span>
 
 
