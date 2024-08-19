@@ -6,9 +6,21 @@ First, save the  `themes` directory, as well as the `package.json` and `package.
 
 ---
 ## Preview
-#### HTML JS CSS
+#### REACT
 
-![Resume Preview](assets/theme-individual.png)
+![Resume Preview](assets/theme-individual-react.png)
+#### HTML
+
+![Resume Preview](assets/theme-individual-html.png)
+#### CSS
+
+![Resume Preview](assets/theme-individual-css.png)
+#### JS
+
+![Resume Preview](assets/theme-individual-js.png)
+#### PHP
+
+![Resume Preview](assets/theme-individual-php.png)
 
 ## Copyright and License
 
