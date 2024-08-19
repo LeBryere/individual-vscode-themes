@@ -12,7 +12,7 @@ First, save the  `themes` directory, as well as the `package.json` and `package.
 #### HTML
 
 ![Resume Preview](assets/individual-html.png)
-#### CSS
+#### CSS SASS
 
 ![Resume Preview](assets/individual-css.png)
 #### JS
