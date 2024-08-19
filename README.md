@@ -8,19 +8,19 @@ First, save the  `themes` directory, as well as the `package.json` and `package.
 ## Preview
 #### REACT
 
-![Resume Preview](assets/theme-individual-react.png)
+![Resume Preview](assets/individual-react.png)
 #### HTML
 
-![Resume Preview](assets/theme-individual-html.png)
+![Resume Preview](assets/individual-html.png)
 #### CSS
 
-![Resume Preview](assets/theme-individual-css.png)
+![Resume Preview](assets/individual-css.png)
 #### JS
 
-![Resume Preview](assets/theme-individual-js.png)
+![Resume Preview](assets/individual-js.png)
 #### PHP
 
-![Resume Preview](assets/theme-individual-php.png)
+![Resume Preview](assets/individual-php.png)
 
 ## Copyright and License
 
