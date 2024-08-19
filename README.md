@@ -7,7 +7,7 @@ For those who like bright colors.
 1. **Backup Original Files**
 
       First, save the `themes` directory, as well as the `package.json` and `package.nls.json` files from the following location:
-      ```js
+      ```react
       c:/Users/your/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/theme-defaults
       ```
       Save these files to a secure location. This will allow you to restore the original state if needed.
