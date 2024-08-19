@@ -8,7 +8,7 @@ For those who like bright colors.
 
       First, save the `themes` directory, as well as the `package.json` and `package.nls.json` files from the following location:
       ```js
-      c:/Users/your/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/theme-defaults</span>
+      c:/Users/your/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/theme-defaults
       ```
       Save these files to a secure location. This will allow you to restore the original state if needed.
 
@@ -16,8 +16,8 @@ For those who like bright colors.
 
       Once you have backed up the original files, delete them from the specified location and replace them with the new files you want to use.
       Ensure that the new files are placed in the same directory:
-      ```php
-      c:/Users/your/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/theme-defaults</span>
+      ```js
+      c:/Users/your/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/theme-defaults
       ```
 
 This will update your VS Code with the new theme files.
